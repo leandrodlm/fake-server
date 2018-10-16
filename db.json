@@ -1,0 +1,12 @@
+{
+    "vagas": [
+      { "id": 1, "title": "Asilo Divino Braga", "autor": "Jonathan Ribeiro", "vagas": 2, "horas": 2, "text":"Estamos com uma vaga para ajudante no asilo Divino Braga, o voluntário será responsável por...", "imgURL": "https://4.bp.blogspot.com/-PYdj4UTFvbY/V0dT4u6FhoI/AAAAAAAABSk/yPOZP9UQx2Asxl0qBJdXJiR63WaHFLRzACLcB/s1600/LAR%2B06.jpg" },
+      { "id": 2, "title": "Creche Salão do Encontro", "autor": "Rafael Bastos", "vagas": 3, "horas": 3, "text":"Estamos com uma vaga para auxiliar na creche Criança Feliz, o voluntário será responsável por...", "imgURL": "http://salaodoencontro.org.br/wp-content/uploads/2016/12/CRECHE-2-2.jpg" }
+    ],
+    "noticias": [
+      { "id": 1, "title": "Anjos na vida real: os voluntários do Coral Infantil de Curitiba", "text": "Desde 1º de dezembro, as noites de sextas, sábados e domingos estão mais alegres e iluminadas em Curitiba (PR). O tradicional Coral de Natal do Palácio Avenida chega à sua 27ª edição apresentando o espetáculo O Palácio Encantado.", "imgURL": "https://abrilveja.files.wordpress.com/2017/12/02.png?w=1024&h=683" },
+      { "id": 2, "title": "Recife ganha “voluntariômetro”", "text": "Aparelho que computa as horas dedicadas ao trabalho voluntário foi instalado no centro da capital pernambucana e é inspirado no “impostômetro” de São Paulo", "imgURL": "https://abrilveja.files.wordpress.com/2016/05/recife-voluntariometro-original-1.jpeg?quality=70&strip=info&resize=680,453" },
+      { "id": 3, "title": "“Escreve Cartas”: voluntariado inspirado no filme Central do Brasil", "text": "Alguns brasileiros incorporam o voluntariado à sua rotina e independem de datas comemorativas. A aposentada Vilma Araújo de Almeida é um desses exemplos. Ela é voluntária do programa “Escreve Cartas” há seis anos, onde ajuda analfabetos e semianalfabetos a redigirem mensagens aos parentes e amigos distantes.", "imgURL": "https://abrilveja.files.wordpress.com/2016/07/screen_shot_2014-12-17_at_1-37-27_pm_853x480.jpg?quality=70&strip=info&resize=428,285" }
+    ],
+    "estatisticas": { "voluntariometro": 1000, "vagasAtendidas": 20 }
+  }
