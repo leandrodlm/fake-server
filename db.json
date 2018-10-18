@@ -14,5 +14,10 @@
       { "id": 2, "title": "Recife ganha “voluntariômetro”", "DataPostagem":"08/10/2018", "text": "Aparelho que computa as horas dedicadas ao trabalho voluntário foi instalado no centro da capital pernambucana e é inspirado no “impostômetro” de São Paulo", "imgURL": "https://abrilveja.files.wordpress.com/2016/05/recife-voluntariometro-original-1.jpeg?quality=70&strip=info&resize=680,453" },
       { "id": 3, "title": "“Escreve Cartas”: voluntariado inspirado no filme Central do Brasil", "DataPostagem":"03/10/2018", "text": "Alguns brasileiros incorporam o voluntariado à sua rotina e independem de datas comemorativas. A aposentada Vilma Araújo de Almeida é um desses exemplos. Ela é voluntária do programa “Escreve Cartas” há seis anos, onde ajuda analfabetos e semianalfabetos a redigirem mensagens aos parentes e amigos distantes.", "imgURL": "https://abrilveja.files.wordpress.com/2016/07/screen_shot_2014-12-17_at_1-37-27_pm_853x480.jpg?quality=70&strip=info&resize=428,285" }
     ],
-    "estatisticas": { "voluntariometro": 1000, "vagasAtendidas": 20 }
+    "instituicoes": [
+      { "id": 1, "instituicao": "Asilo Divino Braga", "imgURL": "https://4.bp.blogspot.com/-PYdj4UTFvbY/V0dT4u6FhoI/AAAAAAAABSk/yPOZP9UQx2Asxl0qBJdXJiR63WaHFLRzACLcB/s1600/LAR%2B06.jpg" },
+      { "id": 2, "instituicao": "Creche Salão do Encontro”", "imgURL": "http://salaodoencontro.org.br/wp-content/uploads/2016/12/CRECHE-2-2.jpg" },
+      { "id": 3, "instituicao": "Hospital da Baleia", "imgURL": "https://www.hojeemdia.com.br/polopoly_fs/1.554624!/image/image.jpg_gen/derivatives/landscape_653/image.jpg" }
+    ],
+    "estatisticas": { "voluntariometro": 210, "instituicoesAtendidas": 30, "voluntários": 70 }
   }
